@@ -1,0 +1,9 @@
+C:\Files\projects\Bptd_Lab3\Bptd_Lab3\bin\Debug\Bptd_Lab3.exe.config
+C:\Files\projects\Bptd_Lab3\Bptd_Lab3\bin\Debug\Bptd_Lab3.exe
+C:\Files\projects\Bptd_Lab3\Bptd_Lab3\bin\Debug\Bptd_Lab3.pdb
+C:\Files\projects\Bptd_Lab3\Bptd_Lab3\obj\Debug\Bptd_Lab3.csprojResolveAssemblyReference.cache
+C:\Files\projects\Bptd_Lab3\Bptd_Lab3\obj\Debug\Bptd_Lab3.Form1.resources
+C:\Files\projects\Bptd_Lab3\Bptd_Lab3\obj\Debug\Bptd_Lab3.Properties.Resources.resources
+C:\Files\projects\Bptd_Lab3\Bptd_Lab3\obj\Debug\Bptd_Lab3.csproj.GenerateResource.Cache
+C:\Files\projects\Bptd_Lab3\Bptd_Lab3\obj\Debug\Bptd_Lab3.exe
+C:\Files\projects\Bptd_Lab3\Bptd_Lab3\obj\Debug\Bptd_Lab3.pdb

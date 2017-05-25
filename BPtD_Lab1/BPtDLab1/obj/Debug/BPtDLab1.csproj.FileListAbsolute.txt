@@ -1,0 +1,15 @@
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\BPtDLab1\bin\Debug\BPtDLab1.exe.config
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\BPtDLab1\bin\Debug\BPtDLab1.exe
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\BPtDLab1\bin\Debug\BPtDLab1.pdb
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\BPtDLab1\bin\Debug\DESEncryption.dll
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\BPtDLab1\bin\Debug\DESEncryption.pdb
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\BPtDLab1\obj\Debug\BPtDLab1.csprojResolveAssemblyReference.cache
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\BPtDLab1\obj\Debug\BPtDLab1.ChatWindow.resources
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\BPtDLab1\obj\Debug\BPtDLab1.KeyGenWindow.resources
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\BPtDLab1\obj\Debug\BPtDLab1.MainWindow.resources
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\BPtDLab1\obj\Debug\BPtDLab1.TestWindow.resources
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\BPtDLab1\obj\Debug\BPtDLab1.Properties.Resources.resources
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\BPtDLab1\obj\Debug\BPtDLab1.WaitWindow.resources
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\BPtDLab1\obj\Debug\BPtDLab1.csproj.GenerateResource.Cache
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\BPtDLab1\obj\Debug\BPtDLab1.exe
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\BPtDLab1\obj\Debug\BPtDLab1.pdb

@@ -1,0 +1,4 @@
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\DESEncryption\bin\Debug\DESEncryption.dll
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\DESEncryption\bin\Debug\DESEncryption.pdb
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\DESEncryption\obj\Debug\DESEncryption.dll
+C:\Files\University_3.2\Labs\BPtD_Labs\BPtDLab1\DESEncryption\obj\Debug\DESEncryption.pdb

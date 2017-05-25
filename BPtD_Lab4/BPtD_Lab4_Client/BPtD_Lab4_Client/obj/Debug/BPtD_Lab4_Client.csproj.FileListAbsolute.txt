@@ -1,0 +1,9 @@
+C:\Files\projects\BPtD_Lab4_Client\BPtD_Lab4_Client\bin\Debug\BPtD_Lab4_Client.exe.config
+C:\Files\projects\BPtD_Lab4_Client\BPtD_Lab4_Client\bin\Debug\BPtD_Lab4_Client.exe
+C:\Files\projects\BPtD_Lab4_Client\BPtD_Lab4_Client\bin\Debug\BPtD_Lab4_Client.pdb
+C:\Files\projects\BPtD_Lab4_Client\BPtD_Lab4_Client\obj\Debug\BPtD_Lab4_Client.Properties.Resources.resources
+C:\Files\projects\BPtD_Lab4_Client\BPtD_Lab4_Client\obj\Debug\BPtD_Lab4_Client.csproj.GenerateResource.Cache
+C:\Files\projects\BPtD_Lab4_Client\BPtD_Lab4_Client\obj\Debug\BPtD_Lab4_Client.exe
+C:\Files\projects\BPtD_Lab4_Client\BPtD_Lab4_Client\obj\Debug\BPtD_Lab4_Client.pdb
+C:\Files\projects\BPtD_Lab4_Client\BPtD_Lab4_Client\obj\Debug\BPtD_Lab4_Client.ChatWindow.resources
+C:\Files\projects\BPtD_Lab4_Client\BPtD_Lab4_Client\obj\Debug\BPtD_Lab4_Client.csprojResolveAssemblyReference.cache
